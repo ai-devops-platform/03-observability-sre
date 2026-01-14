@@ -75,15 +75,18 @@ flowchart TB
 └── README.md
 
 
-🌟 Key Features
-Feature	Description
-Metrics Collection	Prometheus, Loki for metrics & logs
-Distributed Tracing	Jaeger / OpenTelemetry for request traces
-SLO Evaluation	Monitor SLIs and alert on breaches
-Alerting & Notification	Grafana Alerts, Opsgenie integration
-Incident Management	PagerDuty / Jira workflow
-Postmortem & Knowledge Base	Documentation of incidents for learning
-Optional AI Assistance	LLM + RAG for root cause analysis & recommendations
+## 🌟 Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **Metrics Collection** | Prometheus, Loki for metrics & logs |
+| **Distributed Tracing** | Jaeger / OpenTelemetry for request traces |
+| **SLO Evaluation** | Monitor SLIs and alert on breaches |
+| **Alerting & Notification** | Grafana Alerts, Opsgenie integration |
+| **Incident Management** | PagerDuty / Jira workflow |
+| **Postmortem & Knowledge Base** | Documentation of incidents for learning |
+| **Optional AI Assistance** | LLM + RAG for root cause analysis & recommendations |
+
 🔹 Benefits
 
 Proactive reliability using SLOs and error budgets
