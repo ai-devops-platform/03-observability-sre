@@ -62,6 +62,9 @@ flowchart TB
     %% Postmortem loop
     Incident --> Postmortem
 
+## 🗂 Repository Structure
+
+```text
 03-observability-sre/
 ├── metrics/              # Prometheus / Loki configs
 ├── dashboards/           # Grafana dashboards & alerts
@@ -70,6 +73,7 @@ flowchart TB
 ├── incidents/            # Sample incident reports & postmortems
 ├── ai/                   # Optional AI scripts for log/incident analysis
 └── README.md
+
 
 🌟 Key Features
 Feature	Description
