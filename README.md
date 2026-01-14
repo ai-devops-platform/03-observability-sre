@@ -92,23 +92,23 @@ flowchart TB
 
 🔹 Benefits
 
-Proactive reliability using SLOs and error budgets
-
-Faster incident resolution with alerting and AI-assisted insights
-
-Continuous improvement via postmortems and feedback loops
-
-Demonstrates Staff/Principal-level SRE thinking
+    Proactive reliability using SLOs and error budgets
+    
+    Faster incident resolution with alerting and AI-assisted insights
+    
+    Continuous improvement via postmortems and feedback loops
+    
+    Demonstrates Staff/Principal-level SRE thinking
 
 🏁 Next Steps
 
-Add sample metrics, logs, and traces in metrics/ and tracing/
-
-Add Grafana dashboards and alert rules in dashboards/
-
-Create sample incidents and postmortems in incidents/
-
-Optional: Add AI-assisted scripts in ai/
+    Add sample metrics, logs, and traces in metrics/ and tracing/
+    
+    Add Grafana dashboards and alert rules in dashboards/
+    
+    Create sample incidents and postmortems in incidents/
+    
+    Optional: Add AI-assisted scripts in ai/
 
 Include screenshots / GIFs for dashboards and alerts demonstration
     Postmortem --> Dev
