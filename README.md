@@ -65,15 +65,17 @@ flowchart TB
 
 ## 🗂 Repository Structure
 
-```text
-03-observability-sre/
-├── metrics/              # Prometheus / Loki configs
-├── dashboards/           # Grafana dashboards & alerts
-├── tracing/              # Jaeger / OpenTelemetry configs
-├── policies/             # Alerting & SLO policies
-├── incidents/            # Sample incident reports & postmortems
-├── ai/                   # Optional AI scripts for log/incident analysis
-└── README.md
+    ```text
+    03-observability-sre/
+    ├── metrics/              # Prometheus / Loki configs
+    ├── dashboards/           # Grafana dashboards & alerts
+    ├── tracing/              # Jaeger / OpenTelemetry configs
+    ├── policies/             # Alerting & SLO policies
+    ├── incidents/            # Sample incident reports & postmortems
+    ├── ai/                   # Optional AI scripts for log/incident analysis
+    └── README.md
+
+---
 
 ## 🌟 Key Features
 
