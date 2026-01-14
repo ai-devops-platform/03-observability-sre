@@ -29,7 +29,6 @@ It is part of my **Platform Engineering / DevOps Portfolio** showcasing how to d
 
 ## 🗺️ Diagram: Observability & SRE Flow
 
-```mermaid
 flowchart TB
     App[Application / Services]
 
